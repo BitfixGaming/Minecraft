@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 5,
+    "description": "BFG Summer Games Pack"
+  },
+  "meta": {
+    "game_version": "1.15.2"
+  }
+}

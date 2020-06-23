@@ -1,0 +1,27 @@
+{
+   "car.idle":{
+      "sounds":[
+         "car/idle"
+      ]
+   },
+   "car.start":{
+      "sounds":[
+         "car/start"
+      ]
+   },
+   "car.accelerate":{
+      "sounds":[
+         "car/accelerate"
+      ]
+   },
+   "car.driving":{
+      "sounds":[
+         "car/driving"
+      ]
+   },
+   "car.slowingdown":{
+      "sounds":[
+         "car/slowingdown"
+      ]
+   }
+}
